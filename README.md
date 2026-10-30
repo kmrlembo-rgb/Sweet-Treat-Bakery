@@ -1,6 +1,18 @@
 # Sweet Treat Bakery
 ## A delicious treat
 
+# First Heading
+## Second heading
+### Third heading
+
+This is normal text 
+..
+
+### References 
+1. Author, A. A. (Year). Title of article. Title of Periodical, Volume(Issue), Page range. doi.org...
+2. Author, A. A. (Year). Title of article. Title of Periodical, Volume(Issue), Page range. doi.org...
+3. Author, A. A. (Year). Title of article. Title of Periodical, Volume(Issue), Page range. doi.org...
+
 
 This is my read me
 <img width="1280" height="640" alt="1715975382815" src="https://github.com/user-attachments/assets/de9c15cd-c88d-499e-88c3-c678b09d1b50" />
